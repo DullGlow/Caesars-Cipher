@@ -1,7 +1,7 @@
 # Caesar's Cipher
-Simple implementation of Conway's Game of Life in NASM language. You can tweak map size and cell character in source code.
+Caesar's Cipher written in NASM.
 ## Requirements
-You will need Linux with NASM assembler
+You will need Linux with NASM assembler.
 
 ## Installation:
 
