@@ -92,10 +92,10 @@ do_more:
     
 
 ;---------------------------------------------------------------
-; void print  --  Shifts first character by given amount
+; void shift_letter  --  Shifts a character by given amount
 ;
 ; IN:
-;   EAX: String to shift
+;   EAX: Character to shift
 ;   EBX: Number to shift by
 ; OUT:
 ;   None
